@@ -1,4 +1,8 @@
-# readlineSync
+# Registration system made in node.js
+
+##Student registration system made in node.js to study fundamentals of computing and programming logic. 
+
+## readlineSync
 
 [![npm](https://img.shields.io/npm/v/readline-sync.svg)](https://www.npmjs.com/package/readline-sync) [![GitHub issues](https://img.shields.io/github/issues/anseki/readline-sync.svg)](https://github.com/anseki/readline-sync/issues) [![dependencies](https://img.shields.io/badge/dependencies-No%20dependency-brightgreen.svg)](package.json) [![license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE-MIT)
 
